@@ -14,6 +14,7 @@ Subsequent Writes between two 2.56GB files, Actual (2,750,172,983) to USB (2,750
 compared to the standard "drag and drop" method for save files.
 
 Drag and Drop:
+
 Average Time: 4.66 Minutes
 
 Worst Time: 5:16.00 Minutes
@@ -21,6 +22,7 @@ Worst Time: 5:16.00 Minutes
 Best Time: 4:34.96 Minutes
 
 Script:
+
 Average Time: 0:34.00 Seconds
 
 Worst Time: 0:37.00 Seconds
