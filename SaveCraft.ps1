@@ -37,9 +37,9 @@ function Start-MCDrive{                                             #Start progr
                 & robocopy $DrivePath $PCPath /MIR
             }
             "3" {
-                $DriveName = Read-Host -Prompt "What is the path of the USB Drive you wish to play from/to (Remember to enter it " " included)"
+                $DriveName = Read-Host -Prompt "What is the path of the USB Drive you wish to play from/to (Remember to enter it with " " included i.e "etc\.minecraft\saves")"
                 Write-output "Your minecraft PC saves path is: $DriveName"
-                $PCPath = Read-Host -Prompt "What is the full path of your \saves files on PC (Remember to enter it " " included)"
+                $PCPath = Read-Host -Prompt "What is the full path of your \saves files on PC (Remember to enter it with " " included i.e "etc\.minecraft\saves")"
                 Write-output "Your minecraft USB saves path is: $DriveName"
             }
             "4" {
