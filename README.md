@@ -15,12 +15,17 @@ compared to the standard "drag and drop" method for save files.
 
 Drag and Drop:
 Average Time: 4.66 Minutes
+
 Worst Time: 5:16.00 Minutes
+
 Best Time: 4:34.96 Minutes
 
 Script:
 Average Time: 0:34.00 Seconds
+
 Worst Time: 0:37.00 Seconds
+
 Best Time: 0:27.97 Seconds
+
 
 Ultra Performance Mode (MT) Benchmark:
